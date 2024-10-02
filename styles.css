@@ -1,0 +1,22 @@
+.pin {
+    width: 275px;
+    height: 300px;
+    border-radius: 15px;
+    border: 3px solid rgb(0, 0, 0);
+    background-image: url("./images/adidaspurple.avif"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+}
+
+.pin h2 {
+    background-color: rgb(234, 232, 228);
+    border-radius: 15%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pin li {
+    background-color: rgb(234, 232, 228);
+    border-radius: 15%;
+    font-family: Arial, Helvetica, sans-serif;
+}
